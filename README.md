@@ -6,6 +6,7 @@ Control your computer using hand gestures detected through your webcam.
 - Cursor control with hand
 - Left click (thumb + middle finger or index finger)
 - Right click (thumb + ring finger)
+- Close it with "q"
 - Works with digital boards and presentations
 
 ## Technologies
